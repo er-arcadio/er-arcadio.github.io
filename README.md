@@ -1,3 +1,7 @@
 # My Personal Website
 
-Somehow, you ended up here. But, now that youre here, check out [My Website!](https://er-arcadio.github.io/)
+Somehow, you ended up here. 
+
+Get to my actual portfolio through [this link](https://ScrapeItAndSee.github.io/).
+
+Or you can check out this landing page [here](https://er-arcadio.github.io/). 
